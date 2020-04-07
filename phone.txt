@@ -3,3 +3,5 @@
 2. touchscreen
 
 3. gorilla glass
+
+4. fingerprint
